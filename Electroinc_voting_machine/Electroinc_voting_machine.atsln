@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Electroinc_voting_machine", "Electroinc_voting_machine\Electroinc_voting_machine.cproj", "{3F533AD9-3BFA-49F5-80E4-1D5F0F61B950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F533AD9-3BFA-49F5-80E4-1D5F0F61B950}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3F533AD9-3BFA-49F5-80E4-1D5F0F61B950}.Debug|AVR.Build.0 = Debug|AVR
+		{3F533AD9-3BFA-49F5-80E4-1D5F0F61B950}.Release|AVR.ActiveCfg = Release|AVR
+		{3F533AD9-3BFA-49F5-80E4-1D5F0F61B950}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
